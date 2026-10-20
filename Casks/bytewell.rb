@@ -14,7 +14,7 @@ cask "bytewell" do
 
   # Bytewell updates itself (Sparkle)
   auto_updates true
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Bytewell.app"
   binary "#{appdir}/Bytewell.app/Contents/Helpers/bytewell"
