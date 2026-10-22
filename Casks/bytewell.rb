@@ -1,6 +1,6 @@
 cask "bytewell" do
-  version "1.1.18"
-  sha256 "552040d4897fb1d82b9928afe0dca6a5b28b90bf0de978d4bbcc6f6e52718738"
+  version "1.1.19"
+  sha256 "4edfa5873dffe00e97d76be7938faabc8b34c21ce74f16c4ed59e20bd0647890"
 
   url "https://updates.axleno.com/bytewell/Bytewell-#{version}.dmg"
   name "Bytewell"
